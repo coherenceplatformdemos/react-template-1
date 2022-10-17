@@ -141,8 +141,7 @@ export default function Example() {
                     Issue management for growing teams
                   </h1>
                   <p className="mt-6 text-xl text-gray-500">
-                    Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure
-                    qui lorem cupidatat commodo.
+                    Test updated paragraph text
                   </p>
                 </div>
                 <form

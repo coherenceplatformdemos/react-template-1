@@ -8,7 +8,8 @@ COPY yarn.lock yarn.lock
 RUN yarn install
 
 COPY . .
-
+RUN echo "Hello World"
 RUN yarn build
+
 
 CMD ["yarn", "preview"]
